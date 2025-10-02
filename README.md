@@ -4,7 +4,7 @@ This project is a fully responsive website built using **HTML**, **CSS (Flexbox)
 
 ## 🚀 Live Demo
 
-![Image](https://github.com/user-attachments/assets/cdcdf7f2-9b6a-4b08-b2f6-fb073d53626d)
+![Image](https://github.com/user-attachments/assets/6084ffce-3dde-4dda-8118-34a026fbbe44)
 
 ---
 
