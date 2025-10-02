@@ -24,7 +24,5 @@ This project is a fully responsive website built using **HTML**, **CSS (Flexbox)
 - ✅ Interactive elements using JavaScript
 - ✅ Clean and well-structured code
 
----
 
-## 📁 Project Structure
 
